@@ -5,3 +5,9 @@ body {
 h1{
     color: #0f119cee;
 }
+p {
+    color:#3939de;
+}
+section {
+    background-color: rgba(0, 255, 255, 0.3);
+}
