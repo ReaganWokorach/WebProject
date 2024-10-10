@@ -1,7 +1,9 @@
+/* full page background animated background (key frames) */
 body {  padding: 0 100px ;
         font-size: 1.5em;
         height: 100vh;
-        background: linear-gradient(90deg,#e52e71,#ff8a00);}
+        background: linear-gradient(90deg,#e52e71,#ff8a00);
+    }
 
 .slider-thumb::before {
         position: absolute;
@@ -53,14 +55,17 @@ p {
 section {
     background-color: rgba(0, 255, 255, 0.3);
 }
+/* styling for the last image background */
 section.experiment {
     background: url(images/projectimage1.jpg) fixed no-repeat center;
     background-size: cover;
     height: 100vh;
 }
+/* styling for section with the paragraph */
 section p{
     color: hsl(60, 100%, 50%);
 }
+/* styling for both the images ie div1 and div2 */
 section img{
     width:50%;
     padding: 0;
@@ -70,6 +75,7 @@ section img{
     border: 3px solid aqua;
     border-radius: 10px;
 }
+/* to make the circulor border around image 2 */
 .div2 img{
     border: 3px solid aqua; 
     border-radius: 50%; 
