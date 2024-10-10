@@ -1,4 +1,5 @@
-body {
+body {  padding: 0 100px ;
+        font-size: 1.5em;
         height: 100vh;
         background: linear-gradient(90deg,#e52e71,#ff8a00);}
 
@@ -34,11 +35,11 @@ body {
         transform: translate3d(0,-3px,0) rotateZ(0.01deg);
         }
     }
-    background-color:lightgray ;
+/* {background-color:lightgray ;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     padding: 0 100px ;
     font-size: 1.5em;
-}
+} */
 
 h1{
     color: #0f119cee;
