@@ -11,3 +11,11 @@ p {
 section {
     background-color: rgba(0, 255, 255, 0.3);
 }
+section.experiment {
+    background: url(images/projectimage1.jpg) fixed no-repeat center;
+    background-size: cover;
+    height: 100vh;
+}
+section p{
+    color: hsl(60, 100%, 50%);
+}
