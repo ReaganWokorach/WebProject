@@ -15,3 +15,5 @@ A simple Web page collaboration project.
 - Lawrence Mugumbya [206199](ll206199@students.cavendish.ac.ug)
 - Martin Onyabuko [208687](om208687@students.cavendish.ac.ug)
 - Mohammed Mudi [206904](mb206904@students.cavendish.ac.ug)
+
+### Our Netlify [Account](https://online-group-one.netlify.app/)
