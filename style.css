@@ -64,6 +64,7 @@ section.experiment {
 /* styling for section with the paragraph */
 section p{
     color: hsl(60, 100%, 50%);
+    font-size: 1.5em;
 }
 /* styling for both the images ie div1 and div2 */
 section img{
